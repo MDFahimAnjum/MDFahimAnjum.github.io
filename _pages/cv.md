@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Download](https://mehrab-tanjim.github.io/files/Mehrab-Tanjim-CV.pdf)
+[Download](https://mdfahimanjum.github.io/files/cv_4.pdf)
 
-<embed src="https://mehrab-tanjim.github.io/files/Mehrab-Tanjim-CV.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="files/cv_4.pdf" type="application/pdf" width="600px" height="500px" />

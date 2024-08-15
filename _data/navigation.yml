@@ -9,13 +9,16 @@ main:
   
   - title: "Projects"
     url: /#projects
-    
-  #- title: "Patents"
-  #  url: /#patents
-    
-  #- title: "Publications"
-  #  url: /#publications
-    
+       
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Patents"
+    url: /#patents
+
+  - title: "Awards"
+    url: /#awards
+
 #   - title: "Teaching"
 #     url: /teaching/    
   

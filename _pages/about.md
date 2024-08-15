@@ -13,19 +13,27 @@ Hi there 👋
 I'm Fahim Anjum, a postdoctoral researcher at UCSF passionate about machine learning, particularly in brain signal processing and large language models (LLMs). I have 9+ years of experience in designing ML algorithms, statistical models, and efficient features for time-series analysis, forecasting, and classification
 
 
-- 🔭 Developing deep-learning models for brain signal classification.
-- 🌱 Exploring scalable architectures in LLMs for healthcare applications.
-- 👯 Open to collaborations at the intersection of machine learning, neuroscience, and healthcare.
-- 🤔 Actively seeking job opportunities in machine learning and brain signal processing.
-- 💬 Ask me about machine learning, deep learning, or EEG signal processing.
-- 📫 Reach me at [dr.fahim.anjum@gmail.com](mailto:dr.fahim.anjum@gmail.com)
-- 😄 Pronouns: Fahim
-- ⚡ Fun fact: I’m fascinated by the parallels between neural networks and the human brain!
+🔭 Developing deep-learning models for brain signal classification.
+
+🌱 Exploring scalable architectures in LLMs for healthcare applications.
+
+👯 Open to collaborations at the intersection of machine learning, neuroscience, and healthcare.
+
+🤔 Actively seeking job opportunities in machine learning and brain signal processing.
+
+💬 Ask me about machine learning, deep learning, or EEG signal processing.
+
+📫 Reach me at [dr.fahim.anjum@gmail.com](mailto:dr.fahim.anjum@gmail.com)
+
+😄 Pronouns: Fahim
+
+⚡ Fun fact: I’m fascinated by the parallels between neural networks and the human brain!
 
 About Me
 ====
+
 Education
------
+----
 I hold a Ph.D. in Electrical and Computer Engineering from the University of Iowa, where I specialized in decoding brain signals (EEG, LFP) in Parkinson’s disease and analyzing neural pathways using Control theory. My research led to innovative features for accurate brain decoding, with a patent pending on Parkinson’s diagnosis via EEG data. I was honored to receive the Graduate College Post-comprehensive Research Fellowship and was featured in the ‘Dare to Discover Campaign’ for my work.
 
 Currently, I’m a postdoctoral scholar at Little Lab, UCSF, where I focus on developing adaptive Deep Brain Stimulation to restore normal sleep patterns in Parkinson’s patients. In 2021, I received the Computational Innovator Fellowship Grant from UCSF.

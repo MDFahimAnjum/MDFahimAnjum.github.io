@@ -143,8 +143,9 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 
 <div id="news"></div>
 <h1 >Latest News</h1>
-<br> 📢 [August 2024] We published [LiPCoT](https://github.com/MDFahimAnjum/LiPCoT) that enables NLP of time series via LLM.
-<br> 📢 [Febuary 2024] Our [paper](https://www.nature.com/articles/s41467-024-46002-7) was accepted in Nature Communications.
-<br> 📢 [September 2021] Joined Little Lab at UCSF as a postdoctoral scholar.
-<br> 📢 [August 2021] Successfully defended my doctoral disseration!
+📢 [August 2024] We published [LiPCoT](https://github.com/MDFahimAnjum/LiPCoT) that enables NLP of time series via LLM.<br>
+📢 [August 2024] We published [LiPCoT](https://github.com/MDFahimAnjum/LiPCoT) that enables NLP of time series via LLM.<br>
+📢 [Febuary 2024] Our [paper](https://www.nature.com/articles/s41467-024-46002-7) was accepted in Nature Communications.<br>
+📢 [September 2021] Joined Little Lab at UCSF as a postdoctoral scholar.<br>
+📢 [August 2021] Successfully defended my doctoral disseration!<br>
 

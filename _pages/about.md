@@ -29,7 +29,8 @@ I'm Fahim Anjum, a postdoctoral researcher at UCSF passionate about machine lear
 
 ⚡ Fun fact: I’m fascinated by the parallels between neural networks and the human brain!
 
-<h1 id="aboutme">About Me</h1>
+<div id="aboutme"></div>
+<h1>About Me</h1>
 
 <h2>Education</h2>
 I hold a Ph.D. in Electrical and Computer Engineering from the University of Iowa, where I specialized in decoding brain signals (EEG, LFP) in Parkinson’s disease and analyzing neural pathways using Control theory. My research led to innovative features for accurate brain decoding, with a patent pending on Parkinson’s diagnosis via EEG data. I was honored to receive the Graduate College Post-comprehensive Research Fellowship and was featured in the ‘Dare to Discover Campaign’ for my work.
@@ -42,8 +43,8 @@ Brain signal decoding, signal processing, computational models, machine learning
 <h2>Hobbies</h2> 
 Playing musical instruments, reading, skiing, and PC gaming.
 
-
-<h1 id="projects">Projects</h1>
+<div id="projects"></div>
+<h1>Projects</h1>
 
 <h2>Language Models</h2>
 
@@ -56,18 +57,22 @@ Playing musical instruments, reading, skiing, and PC gaming.
   </div>
   <div class="archive__proj__left">
     <div>
-        <img  src="https://mehrab-tanjim.github.io/images/debiasing_clip.png"> 
+        <img  src="images/profile.png"> 
     </div>
   </div>
 </div>
 
-<h1 id="publications">Publications</h1>
+<div id="publications"></div>
+<h1 >Publications</h1>
 
-<h1 id="patents">Patents</h1>
+<div id="patents"></div>
+<h1 >Patents</h1>
 
-<h1 id="awards">Awards</h1>
+<div id="awards"></div>
+<h1 >Awards</h1>
 
-<h1 id="news">Latest News</h1>
+<div id="news"></div>
+<h1 >Latest News</h1>
 
 - [August 2024] We published our noval signal tokenizer [LiPCoT](https://github.com/MDFahimAnjum/LiPCoT) what enables NLP of time series through LLM
 - [Febuary 2024] Our [paper](https://www.nature.com/articles/s41467-024-46002-7) was accepted in Nature Communications

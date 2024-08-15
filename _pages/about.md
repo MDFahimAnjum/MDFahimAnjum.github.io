@@ -80,6 +80,20 @@ Playing musical instruments, reading, skiing, and PC gaming.
   </div>
 </div>
 
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://www.nature.com/articles/s41467-024-46002-7">Efficient Feature Engineering for Time Series Classifier </a></b>
+    <br>Developed manual features using signal processing (spectral power) from LFP brain activity time series (RCS brain-implant) for computationally efficient sleep stage classification and achieved over 90% accuracy with lightweight ML models (SVM), matching DL models (CNN, Transformer, RNN) with automatic feature engineering (published in Nature Communications)<br> Tech Stack: Matlab, R
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/natcomm.png"> 
+    </div>
+  </div>
+</div>
+
 <h2>Efficient Signal Processing</h2>
 <div class="archive__proj__row">
   <div class="archive__proj__right">

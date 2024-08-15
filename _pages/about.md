@@ -78,7 +78,7 @@ Playing musical instruments, reading, skiing, and PC gaming.
   </div>
   <div class="archive__proj__left">
     <div>
-        <img  src="images/hugtokencraft.png"> 
+        <img  src="images/turbolpc.png"> 
     </div>
   </div>
 </div>

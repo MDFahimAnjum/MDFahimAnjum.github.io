@@ -12,14 +12,14 @@ main:
   - title: "Projects"
       url: /#projects
 
-  - title: "Patents"
-      url: /#patents
+  #- title: "Patents"
+  #    url: /#patents
 
-  - title: "Awards"
-      url: /#awards
+  #- title: "Awards"
+  #    url: /#awards
 
-  - title: "Publications"
-    url: /#publications
+  #- title: "Publications"
+  #  url: /#publications
 
   - title: "Latest News"
       url: /#news

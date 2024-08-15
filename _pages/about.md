@@ -46,6 +46,26 @@ Hobbies
 ---
 Playing musical instruments, reading, skiing, and PC gaming.
 
+
+<div id="projects">
+<h1>Projects</h1>
+
+<h2>Language Models</h2>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://drive.google.com/file/d/1uDgAPfl3bA4wbWtpOPdPdiQq0wzTiAOl/view">Discovering and Mitigating Biases in CLIP-based Text-to-Image Generation</a></b>
+    <br>Discovered the queries for which the popular CLIP model biases the generated images in the text-to-image synthesis task and proposed several ways to mitigate the biases without retraining CLIP or the underlying generative model. <br> Tech Stack: Pytorch
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://mehrab-tanjim.github.io/images/debiasing_clip.png"> 
+    </div>
+  </div>
+</div>
+
 <div id="news">
 <h1>Latest News</h1>
 

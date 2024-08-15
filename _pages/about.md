@@ -66,14 +66,26 @@ Playing musical instruments, reading, skiing, and PC gaming.
 </div>
 
 <h2>Efficient Machine Learning</h2>
-
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://github.com/MDFahimAnjum/TurboLPC">LightCNN: A Single-Layer Model Outperforming Deep-CNN and CRNN in PD Classification </a></b>
+    <br>Developed a lightweight CNN architecture designed for efficient and effective Parkinson's disease (PD) classification using EEG data demonstrating that a well-designed, lightweight model can achieve superior performance over more complex architectures.<br> Tech Stack: Pytorch
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/turbolpc.png"> 
+    </div>
+  </div>
+</div>
 
 <h2>Efficient Signal Processing</h2>
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
     <b><a href="https://github.com/MDFahimAnjum/TurboLPC">TurboLPC: Python library for Signal Processing </a></b>
-    <br>Developed an efficient Python library for stochas￾tic modeling of time series data for speech and audio analysis, data compression, and feature extraction. TurboLPC is 1,000Ö faster and comes with an advanced variation of frequency-warping for non-uniform frequency resolution<br> Tech Stack: Python
+    <br>Developed an efficient Python library for stochas￾tic modeling of time series data for speech and audio analysis, data compression, and feature extraction. TurboLPC is 1,000x faster and comes with an advanced variation of frequency-warping for non-uniform frequency resolution<br> Tech Stack: Python
     </p>
   </div>
   <div class="archive__proj__left">

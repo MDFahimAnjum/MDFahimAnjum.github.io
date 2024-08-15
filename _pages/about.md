@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Fahim Anjum"
-excerpt: "Fahim Anjum"
 author_profile: true
 redirect_from: 
   - /about/

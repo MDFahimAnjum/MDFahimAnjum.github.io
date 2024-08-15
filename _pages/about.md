@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Fahim Anjum"
+excerpt: "Fahim Anjum"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,28 +9,34 @@ redirect_from:
 ---
 
 Hi there 👋
-=====
-I'm Fahim Anjum, a postdoctoral researcher at UCSF passionate about machine learning, particularly in brain signal processing and large language models (LLMs).
-I'm Fahim Anjum, a postdoctoral researcher at UCSF passionate about machine learning, particularly in brain signal processing and large language models (LLMs).
+----
+I'm Fahim Anjum, a postdoctoral researcher at UCSF passionate about machine learning, particularly in brain signal processing and large language models (LLMs). I have 9+ years of experience in designing ML algorithms, statistical models, and efficient features for time-series analysis, forecasting, and classification
 
-- 🔭 I’m currently working on developing innovative deep-learning models for classifying and interpreting brain signals, with a focus on neurological disorders like Parkinson's disease.
-- 🌱 I’m currently learning more about scalable architectures in LLMs and their application in healthcare.
-- 👯 I’m looking to collaborate on projects that intersect machine learning, neuroscience, and healthcare.
-- 🤔 I’m actively seeking job opportunities where I can apply my expertise in machine learning and brain signal processing.
-- 💬 Ask me about machine learning, deep learning architectures, or how to get started with EEG signal processing.
-- 📫 How to reach me: [dr.fahim.anjum@gmail.com](mailto:dr.fahim.anjum@gmail.com)
+
+- 🔭 Developing deep-learning models for brain signal classification.
+- 🌱 Exploring scalable architectures in LLMs for healthcare applications.
+- 👯 Open to collaborations at the intersection of machine learning, neuroscience, and healthcare.
+- 🤔 Actively seeking job opportunities in machine learning and brain signal processing.
+- 💬 Ask me about machine learning, deep learning, or EEG signal processing.
+- 📫 Reach me at [dr.fahim.anjum@gmail.com](mailto:dr.fahim.anjum@gmail.com)
 - 😄 Pronouns: Fahim
-- ⚡ Fun fact: I’m fascinated by the parallels between neural networks and the human brain – it’s what drives my research every day!
+- ⚡ Fun fact: I’m fascinated by the parallels between neural networks and the human brain!
 
 About Me
 ====
+Education
+-----
 I hold a Ph.D. in Electrical and Computer Engineering from the University of Iowa, where I specialized in decoding brain signals (EEG, LFP) in Parkinson’s disease and analyzing neural pathways using Control theory. My research led to innovative features for accurate brain decoding, with a patent pending on Parkinson’s diagnosis via EEG data. I was honored to receive the Graduate College Post-comprehensive Research Fellowship and was featured in the ‘Dare to Discover Campaign’ for my work.
 
 Currently, I’m a postdoctoral scholar at Little Lab, UCSF, where I focus on developing adaptive Deep Brain Stimulation to restore normal sleep patterns in Parkinson’s patients. In 2021, I received the Computational Innovator Fellowship Grant from UCSF.
 
-**Expertise:** Brain signal decoding, signal processing, computational models, machine learning, and control theory.
+Expertise 
+----
+Brain signal decoding, signal processing, computational models, machine learning, and control theory, LLM, Statistical models
 
-**Hobbies:** Playing musical instruments, reading, skiing, and pc gaming.
+Hobbies 
+---
+Playing musical instruments, reading, skiing, and PC gaming.
 
 Latest News
 ====
@@ -38,6 +45,4 @@ Latest News
 - [September 2021] Joined Little Lab at UCSF as a postdoctoral scholar.
 - [August 2021] Successfully defended my doctoral disseration!
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 

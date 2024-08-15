@@ -55,7 +55,7 @@ Playing musical instruments, reading, skiing, and PC gaming.
   <div class="archive__proj__right">
     <p>
     <b><a href="https://github.com/MDFahimAnjum/HugTokenCraft">HugTokenCraft: Python library to modify BERT Tokenizer </a></b>
-    <br>Developed a Python library to simplify the process of vocabulary modification (add/remove tokens from dictionary) of a pre-trained tokenizer (BertTo￾kenizer) used in BERT<br> Tech Stack: BERT
+    <br>Developed a Python library to simplify the process of vocabulary modification (add/remove tokens from dictionary) of a pre-trained tokenizer (BertTokenizer) used in BERT<br> Tech Stack: BERT
     </p>
   </div>
   <div class="archive__proj__left">
@@ -64,6 +64,8 @@ Playing musical instruments, reading, skiing, and PC gaming.
     </div>
   </div>
 </div>
+
+<h2>Efficient Machine Learning</h2>
 
 <div id="publications"></div>
 <h1 >Publications</h1>

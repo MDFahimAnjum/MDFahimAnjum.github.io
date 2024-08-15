@@ -29,8 +29,8 @@ I'm Fahim Anjum, a postdoctoral researcher at UCSF passionate about machine lear
 
 ⚡ Fun fact: I’m fascinated by the parallels between neural networks and the human brain!
 
-About Me
-====
+<div id="aboutme">
+<h1>About Me</h1>
 
 Education
 ----
@@ -46,8 +46,9 @@ Hobbies
 ---
 Playing musical instruments, reading, skiing, and PC gaming.
 
-Latest News
-====
+<div id="news">
+<h1>Latest News</h1>
+
 - [August 2024] We published our noval signal tokenizer [LiPCoT](https://github.com/MDFahimAnjum/LiPCoT) what enables NLP of time series through LLM
 - [Febuary 2024] Our [paper](https://www.nature.com/articles/s41467-024-46002-7) was accepted in Nature Communications
 - [September 2021] Joined Little Lab at UCSF as a postdoctoral scholar.

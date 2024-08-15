@@ -41,7 +41,7 @@ Playing musical instruments, reading, skiing, and PC gaming.
   <div class="archive__proj__right">
     <p>
     <b><a href="https://arxiv.org/abs/2408.07292">LiPCoT: Linear Predictive Coding based Tokenizer for Self-supervised Learning of Time Series Data via Language Models </a></b>
-    <br>Discovered is a novel tokenizer that encodes time series data into a sequence of tokens, enabling self-supervised learning of time series using existing Language model architectures such as BERT. <br> Tech Stack: Pytorch
+    <br>Designed a novel tokenizer that converts time series data of brain signals into a fixed vocabulary via stochastic modeling and utilized BERT for pre-training and fine-tuning for detecting neurodegenerative diseases tasks. <br> Tech Stack: Pytorch
     </p>
   </div>
   <div class="archive__proj__left">
@@ -66,6 +66,23 @@ Playing musical instruments, reading, skiing, and PC gaming.
 </div>
 
 <h2>Efficient Machine Learning</h2>
+
+
+<h2>Efficient Signal Processing</h2>
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://github.com/MDFahimAnjum/TurboLPC">TurboLPC: Python library for Signal Processing </a></b>
+    <br>Developed an efficient Python library for stochas￾tic modeling of time series data for speech and audio analysis, data compression, and feature extraction. TurboLPC is 1,000Ö faster and comes with an advanced variation of frequency-warping for non-uniform frequency resolution<br> Tech Stack: Python
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/hugtokencraft.png"> 
+    </div>
+  </div>
+</div>
+
 
 <div id="publications"></div>
 <h1 >Publications</h1>

@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Home"
+title: "Hi there 👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi there 👋
-----
 I'm Fahim Anjum, a postdoctoral researcher at UCSF passionate about machine learning, particularly in brain signal processing and large language models (LLMs). I have 9+ years of experience in designing ML algorithms, statistical models, and efficient features for time-series analysis, forecasting, and classification
 
 <br>🔭 Developing deep-learning models for brain signal classification.

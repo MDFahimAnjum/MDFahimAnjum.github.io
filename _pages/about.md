@@ -32,18 +32,15 @@ I'm Fahim Anjum, a postdoctoral researcher at UCSF passionate about machine lear
 <div id="aboutme">
 <h1>About Me</h1>
 
-Education
-----
+<h2>Education</h2>
 I hold a Ph.D. in Electrical and Computer Engineering from the University of Iowa, where I specialized in decoding brain signals (EEG, LFP) in Parkinson’s disease and analyzing neural pathways using Control theory. My research led to innovative features for accurate brain decoding, with a patent pending on Parkinson’s diagnosis via EEG data. I was honored to receive the Graduate College Post-comprehensive Research Fellowship and was featured in the ‘Dare to Discover Campaign’ for my work.
 
 Currently, I’m a postdoctoral scholar at Little Lab, UCSF, where I focus on developing adaptive Deep Brain Stimulation to restore normal sleep patterns in Parkinson’s patients. In 2021, I received the Computational Innovator Fellowship Grant from UCSF.
 
-Expertise 
-----
+<h2>Expertise</h2> 
 Brain signal decoding, signal processing, computational models, machine learning, and control theory, LLM, Statistical models
 
-Hobbies 
----
+<h2>Hobbies</h2> 
 Playing musical instruments, reading, skiing, and PC gaming.
 
 

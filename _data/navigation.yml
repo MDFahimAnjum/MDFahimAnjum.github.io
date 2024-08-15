@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "About Me"
+    url: /#aboutme
+
   #- title: "Talks"
   #  url: /talks/    
   
@@ -17,7 +21,10 @@ main:
   
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
+
+  - title: "Latest News"
+    url: /#news
+
   - title: "CV"
     url: /cv/
     

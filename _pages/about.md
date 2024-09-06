@@ -35,7 +35,21 @@ Playing musical instruments, reading, skiing, and PC gaming.
 <div id="projects"></div>
 <h1>Projects</h1>
 
-<h2>Language Models</h2>
+<h2>Generative Models</h2>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://mdfahimanjum.github.io/AliasFree-Diffusion-Models-PyTorch/">Advancing Diffusion Models: Alias-Free Resampling and Enhanced Rotational Equivariance </a></b>
+    <br>Developed an enhanced diffusion model by integrating alias-free resampling techniques inspired by StyleGAN3, resulting in improved rotational equivariance and stable training. The model demonstrates superior performance across MNIST, CIFAR-10, and MNIST-M datasets without introducing new trainable parameters, maintaining simplicity and efficiency in architecture. <br> Tech Stack: Pytorch
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/aliasfreediffusion.png"> 
+    </div>
+  </div>
+</div>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -69,8 +83,8 @@ Playing musical instruments, reading, skiing, and PC gaming.
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://github.com/MDFahimAnjum/TurboLPC">LightCNN: A Single-Layer Model Outperforming Deep-CNN and CRNN in PD Classification </a></b>
-    <br>Developed a lightweight CNN architecture designed for efficient and effective Parkinson's disease (PD) classification using EEG data demonstrating that a well-designed, lightweight model can achieve superior performance over more complex architectures.<br> Tech Stack: Pytorch
+    <b><a href="https://doi.org/10.48550/arXiv.2408.10457">Parkinson's Disease Classification via EEG: All You Need is a Single Convolutional Layer </a></b>
+    <br>Developed LightCNN, a single-layer CNN for Parkinson's disease classification using EEG data. LightCNN outperformed complex models in accuracy, precision, and recall while remaining lightweight and interpretable, making it ideal for deployment in resource-constrained settings, capturing clinically relevant neurophysiological patterns associated with PD.<br> Tech Stack: Pytorch, EEG data
     </p>
   </div>
   <div class="archive__proj__left">

@@ -19,6 +19,8 @@ I'm Fahim Anjum, a postdoctoral researcher at UCSF passionate about machine lear
 <br>⚡ Fun fact: I’m fascinated by the parallels between neural networks and the human brain!
 
 <div id="aboutme"></div>
+<hr style="height:1px; border:none; color:#333; background-color:#333;" />
+
 <h1>About Me</h1>
 
 <h2>Education</h2>
@@ -33,6 +35,8 @@ Brain signal decoding, signal processing, computational models, machine learning
 Playing musical instruments, reading, skiing, and PC gaming.
 
 <div id="projects"></div>
+<hr style="height:1px; border:none; color:#333; background-color:#333;" />
+
 <h1>Projects</h1>
 
 <h2>Generative Models</h2>
@@ -125,6 +129,7 @@ Playing musical instruments, reading, skiing, and PC gaming.
 
 
 <div id="publications"></div>
+<hr style="height:1px; border:none; color:#333; background-color:#333;" />
 <h1 >Publications</h1>
 <div>
 For latest publications, please visit <u><a href="https://scholar.google.com/citations?user=ar8J3cgAAAAJ&hl=en">my Google Scholar profile</a>.</u>
@@ -132,6 +137,8 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 </div>
 
 <div id="patents"></div>
+<hr style="height:1px; border:none; color:#333; background-color:#333;" />
+
 <h1 >Patents</h1>
 
 <div class="archive__pub__row">
@@ -153,9 +160,13 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 </div>
 
 <div id="awards"></div>
+<hr style="height:1px; border:none; color:#333; background-color:#333;" />
+
 <h1 >Awards</h1>
 
 <div id="news"></div>
+<hr style="height:1px; border:none; color:#333; background-color:#333;" />
+
 <h1 >Latest News</h1>
 📢 [August 2024] We published [LiPCoT](https://github.com/MDFahimAnjum/LiPCoT) that enables NLP of time series via LLM.<br>
 📢 [Febuary 2024] Our [paper](https://www.nature.com/articles/s41467-024-46002-7) was accepted in Nature Communications.<br>

@@ -127,6 +127,205 @@ Playing musical instruments, reading, skiing, and PC gaming.
   </div>
 </div>
 
+<div id="news"></div>
+<hr style="height:1px; border:none; color:#333; background-color:#333;" />
+
+<h1 >Latest News</h1>
+
+
+📢 [August 2024] We published [LiPCoT](https://github.com/MDFahimAnjum/LiPCoT) that enables NLP of time series via LLM.<br>
+📢 [Febuary 2024] Our [paper](https://www.nature.com/articles/s41467-024-46002-7) was accepted in Nature Communications.<br>
+📢 [October 2021] Received Computational Innovator Postdoctoral Fellowship of $75,000.<br>
+📢 [September 2021] Joined Little Lab at UCSF as a postdoctoral scholar.<br>
+📢 [August 2021] Successfully defended my doctoral disseration!<br>
+📢 [January 2021] Graduate College Post-Comprehensive Research Fellowship of $10,000.<br>
+
+
+<div id="awards"></div>
+<hr style="height:1px; border:none; color:#333; background-color:#333;" />
+
+<h1 >Awards & Funding</h1>
+
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Postdoctoral Fellowship Grant</b>
+    <br>Md Fahim Anjum
+    <br>Computational Innovator Postdoctoral Fellowship, $75,000 (2021-22)
+    <br>UC Noyce Initiative, 2021 
+    <br><a href="https://ucnoyce.org/researcher/fahim-anjum">link</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/noyce2.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Graduate Research Fellowship</b>
+    <br>Md Fahim Anjum
+    <br>Graduate College Post-Comprehensive Research Fellowship, $10,000 (2021)
+    <br>Graduate College, The University of Iowa
+    <br><a href="https://grad.uiowa.edu/funding/fellowships/post-comp#information">link</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/uiowa.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Featured Researcher</b>
+    <br>Md Fahim Anjum
+    <br>Dare to Discover Campaign (2021)
+    <br>Office of the Vice President for Research, The University of Iowa
+    <br><a href="https://dare.research.uiowa.edu/anjum-md-fahim/">link</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/dare2discover.png"> 
+    </div>
+  </div>
+</div>
+
+<div id="media"></div>
+<hr style="height:1px; border:none; color:#333; background-color:#333;" />
+
+<h1 >Media Coverage</h1>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>A Personalized Brain Pacemaker for Parkinson’s</b>
+    <br>News Article
+    <br>August 20, 2024 
+    <br> The New York Times
+    <br><a href="https://www.nytimes.com/2024/08/19/health/parkinsons-brain-pacemaker.html">link</a>
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/media_ucsf3.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Taming Parkinson’s Disease with Intelligent Brain Pacemakers</b>
+    <br>News Article
+    <br>August 19, 2024 
+    <br> Science Daily
+    <br><a href="https://www.sciencedaily.com/releases/2024/08/240819130520.htm">link</a>
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/media_ucsf2.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Taming Parkinson’s Disease with Intelligent Brain Pacemakers</b>
+    <br>News Article
+    <br>August 19, 2024 
+    <br> UCSF News
+    <br><a href="https://www.ucsf.edu/news/2024/08/428246/taming-parkinsons-disease-intelligent-brain-pacemakers">link</a>
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/media_ucsf.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>ECE research could enhance Parkinson’s disease treatment in rural settings</b>
+    <br>News Article
+    <br>January 4, 2024
+    <br> College of Engineering, The University of Iowa
+    <br><a href="https://engineering.uiowa.edu/news-all/2024/01/ece-research-could-enhance-parkinsons-disease-treatment-rural-settings">link</a>
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/media_uiowa2.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>University of Iowa researchers develop algorithm to detect Parkinson’s Disease</b>
+    <br>News Article
+    <br>September 9, 2020
+    <br> The Daily Iowan
+    <br><a href="https://dailyiowan.com/2020/09/09/university-of-iowa-researchers-develop-algorithm-to-detect-parkinsons-disease/">link</a>
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/media_iowa.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>UI engineers and neurologists develop a highly efficient algorithm that can detect
+Parkinson’s Disease through EEG data</b>
+    <br>News Article
+    <br>August 31, 2020
+    <br> College of Engineering, The University of Iowa
+    <br><a href="https://engineering.uiowa.edu/news-all/2020/08/ui-engineers-and-neurologists-develop-highly-efficient-algorithm-can-detect">link</a>
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/media_uiowa.png"> 
+    </div>
+  </div>
+</div>
+
+<div id="patents"></div>
+<hr style="height:1px; border:none; color:#333; background-color:#333;" />
+
+<h1 >Patents</h1>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Apparatus, systems and methods for diagnosing parkinsons disease from electroencephalography data</b>
+    <br>    Soura Dasgupta,  Kumar Narayanan, Md Fahim Anjum, Raghuraman Mudumbai
+    <br>United States Patent Application 17/020,432
+    <br><a href="https://patentcenter.uspto.gov/applications/17020432">link</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/uiowa.png"> 
+    </div>
+  </div>
+</div>
 
 <div id="publications"></div>
 <hr style="height:1px; border:none; color:#333; background-color:#333;" />
@@ -393,202 +592,8 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 </div>
 
 
-<div id="patents"></div>
-<hr style="height:1px; border:none; color:#333; background-color:#333;" />
-
-<h1 >Patents</h1>
-
-<div class="archive__pub__row">
-  <div class="archive__pub__left">
-    <p>
-    <b>Apparatus, systems and methods for diagnosing parkinsons disease from electroencephalography data</b>
-    <br>    Soura Dasgupta,  Kumar Narayanan, Md Fahim Anjum, Raghuraman Mudumbai
-    <br>United States Patent Application 17/020,432
-    <br><a href="https://patentcenter.uspto.gov/applications/17020432">link</a>
-    </p>
-  </div>
-  <div class="archive__pub__right">
-    <div class="square">
-        <img  src="images/uiowa.png"> 
-    </div>
-  </div>
-</div>
-
-<div id="awards"></div>
-<hr style="height:1px; border:none; color:#333; background-color:#333;" />
-
-<h1 >Awards & Funding</h1>
 
 
-<div class="archive__pub__row">
-  <div class="archive__pub__left">
-    <p>
-    <b>Postdoctoral Fellowship Grant</b>
-    <br>Md Fahim Anjum
-    <br>Computational Innovator Postdoctoral Fellowship, $75,000 (2021-22)
-    <br>UC Noyce Initiative, 2021 
-    <br><a href="https://ucnoyce.org/researcher/fahim-anjum">link</a>
-    </p>
-  </div>
-  <div class="archive__pub__right">
-    <div class="square">
-        <img  src="images/noyce2.png"> 
-    </div>
-  </div>
-</div>
 
-<div class="archive__pub__row">
-  <div class="archive__pub__left">
-    <p>
-    <b>Graduate Research Fellowship</b>
-    <br>Md Fahim Anjum
-    <br>Graduate College Post-Comprehensive Research Fellowship, $10,000 (2021)
-    <br>Graduate College, The University of Iowa
-    <br><a href="https://grad.uiowa.edu/funding/fellowships/post-comp#information">link</a>
-    </p>
-  </div>
-  <div class="archive__pub__right">
-    <div class="square">
-        <img  src="images/uiowa.png"> 
-    </div>
-  </div>
-</div>
-
-<div class="archive__pub__row">
-  <div class="archive__pub__left">
-    <p>
-    <b>Featured Researcher</b>
-    <br>Md Fahim Anjum
-    <br>Dare to Discover Campaign (2021)
-    <br>Office of the Vice President for Research, The University of Iowa
-    <br><a href="https://dare.research.uiowa.edu/anjum-md-fahim/">link</a>
-    </p>
-  </div>
-  <div class="archive__pub__right">
-    <div class="square">
-        <img  src="images/dare2discover.png"> 
-    </div>
-  </div>
-</div>
-
-<div id="media"></div>
-<hr style="height:1px; border:none; color:#333; background-color:#333;" />
-
-<h1 >Media Coverage</h1>
-
-<div class="archive__proj__row">
-  <div class="archive__proj__right">
-    <p>
-    <b>A Personalized Brain Pacemaker for Parkinson’s</b>
-    <br>News Article
-    <br>August 20, 2024 
-    <br> The New York Times
-    <br><a href="https://www.nytimes.com/2024/08/19/health/parkinsons-brain-pacemaker.html">link</a>
-    </p>
-  </div>
-  <div class="archive__proj__left">
-    <div>
-        <img  src="images/media_ucsf3.png"> 
-    </div>
-  </div>
-</div>
-
-<div class="archive__proj__row">
-  <div class="archive__proj__right">
-    <p>
-    <b>Taming Parkinson’s Disease with Intelligent Brain Pacemakers</b>
-    <br>News Article
-    <br>August 19, 2024 
-    <br> Science Daily
-    <br><a href="https://www.sciencedaily.com/releases/2024/08/240819130520.htm">link</a>
-    </p>
-  </div>
-  <div class="archive__proj__left">
-    <div>
-        <img  src="images/media_ucsf2.png"> 
-    </div>
-  </div>
-</div>
-
-<div class="archive__proj__row">
-  <div class="archive__proj__right">
-    <p>
-    <b>Taming Parkinson’s Disease with Intelligent Brain Pacemakers</b>
-    <br>News Article
-    <br>August 19, 2024 
-    <br> UCSF News
-    <br><a href="https://www.ucsf.edu/news/2024/08/428246/taming-parkinsons-disease-intelligent-brain-pacemakers">link</a>
-    </p>
-  </div>
-  <div class="archive__proj__left">
-    <div>
-        <img  src="images/media_ucsf.png"> 
-    </div>
-  </div>
-</div>
-
-<div class="archive__proj__row">
-  <div class="archive__proj__right">
-    <p>
-    <b>ECE research could enhance Parkinson’s disease treatment in rural settings</b>
-    <br>News Article
-    <br>January 4, 2024
-    <br> College of Engineering, The University of Iowa
-    <br><a href="https://engineering.uiowa.edu/news-all/2024/01/ece-research-could-enhance-parkinsons-disease-treatment-rural-settings">link</a>
-    </p>
-  </div>
-  <div class="archive__proj__left">
-    <div>
-        <img  src="images/media_uiowa2.png"> 
-    </div>
-  </div>
-</div>
-
-<div class="archive__proj__row">
-  <div class="archive__proj__right">
-    <p>
-    <b>University of Iowa researchers develop algorithm to detect Parkinson’s Disease</b>
-    <br>News Article
-    <br>September 9, 2020
-    <br> The Daily Iowan
-    <br><a href="https://dailyiowan.com/2020/09/09/university-of-iowa-researchers-develop-algorithm-to-detect-parkinsons-disease/">link</a>
-    </p>
-  </div>
-  <div class="archive__proj__left">
-    <div>
-        <img  src="images/media_iowa.png"> 
-    </div>
-  </div>
-</div>
-
-<div class="archive__proj__row">
-  <div class="archive__proj__right">
-    <p>
-    <b>UI engineers and neurologists develop a highly efficient algorithm that can detect
-Parkinson’s Disease through EEG data</b>
-    <br>News Article
-    <br>August 31, 2020
-    <br> College of Engineering, The University of Iowa
-    <br><a href="https://engineering.uiowa.edu/news-all/2020/08/ui-engineers-and-neurologists-develop-highly-efficient-algorithm-can-detect">link</a>
-    </p>
-  </div>
-  <div class="archive__proj__left">
-    <div>
-        <img  src="images/media_uiowa.png"> 
-    </div>
-  </div>
-</div>
-
-
-<div id="news"></div>
-<hr style="height:1px; border:none; color:#333; background-color:#333;" />
-
-<h1 >Latest News</h1>
-
-
-📢 [August 2024] We published [LiPCoT](https://github.com/MDFahimAnjum/LiPCoT) that enables NLP of time series via LLM.<br>
-📢 [Febuary 2024] Our [paper](https://www.nature.com/articles/s41467-024-46002-7) was accepted in Nature Communications.<br>
-📢 [September 2021] Joined Little Lab at UCSF as a postdoctoral scholar.<br>
-📢 [August 2021] Successfully defended my doctoral disseration!<br>
 
 

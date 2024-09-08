@@ -9,18 +9,22 @@ main:
   
   - title: "Projects"
     url: /#projects
-       
-  - title: "Publications"
-    url: /#publications
 
-  - title: "Patents"
-    url: /#patents
+  - title: "Latest News"
+    url: /#news
 
   - title: "Awards & Funding"
     url: /#awards
   
   - title: "Media Coverage"
     url: /#media
+    
+  - title: "Patents"
+    url: /#patents
+
+  - title: "Publications"
+    url: /#publications
+
 
 #   - title: "Teaching"
 #     url: /teaching/    
@@ -28,8 +32,6 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-  - title: "Latest News"
-    url: /#news
 
   - title: "CV"
     url: /cv/

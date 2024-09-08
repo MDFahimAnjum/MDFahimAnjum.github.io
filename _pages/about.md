@@ -488,7 +488,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   </div>
   <div class="archive__proj__left">
     <div>
-        <img  src="images/media_ucsf2.png"> 
+        <img  src="images/media_ucsf3.png"> 
     </div>
   </div>
 </div>

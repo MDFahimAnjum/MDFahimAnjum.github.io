@@ -417,7 +417,50 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <div id="awards"></div>
 <hr style="height:1px; border:none; color:#333; background-color:#333;" />
 
-<h1 >Awards & Media</h1>
+<h1 >Awards & Funding</h1>
+
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Postdoctoral Fellowship Grant</b>
+    <br>Md Fahim Anjum
+    <br>Computational Innovator Postdoctoral Fellowship, $75,000 (2021-22)
+    <br>UC Noyce Initiative, 2021 
+    <br><a href="https://ucnoyce.org/researcher/fahim-anjum">link</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/noyce.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Graduate Research Fellowship</b>
+    <br>Md Fahim Anjum
+    <br>Graduate College Post-Comprehensive Research Fellowship, $10,000 (2021)
+    <br>Graduate College, The University of Iowa
+    <!---<br><a href="https://ucnoyce.org/researchers">link</a>-->
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/uiowa.png"> 
+    </div>
+  </div>
+</div>
+
+
+<div id="media"></div>
+<hr style="height:1px; border:none; color:#333; background-color:#333;" />
+
+<h1 >Media Coverage</h1>
+
+
 
 <div id="news"></div>
 <hr style="height:1px; border:none; color:#333; background-color:#333;" />

@@ -16,8 +16,11 @@ main:
   - title: "Patents"
     url: /#patents
 
-  - title: "Awards & Media"
+  - title: "Awards & Funding"
     url: /#awards
+  
+  - title: "Media Coverage"
+    url: /#media
 
 #   - title: "Teaching"
 #     url: /teaching/    

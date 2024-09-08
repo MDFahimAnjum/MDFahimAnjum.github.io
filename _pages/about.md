@@ -460,7 +460,23 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 
 <h1 >Media Coverage</h1>
 
-
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>UI engineers and neurologists develop a highly efficient algorithm that can detect
+Parkinson’s Disease through EEG data</b>
+    <br>News Article
+    <br>August 31, 2020
+    <br> College of Engineering, The University of Iowa
+    <br><a href="https://engineering.uiowa.edu/news-all/2020/08/ui-engineers-and-neurologists-develop-highly-efficient-algorithm-can-detect">link</a>
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/media_uiowa.png"> 
+    </div>
+  </div>
+</div>
 
 <div id="news"></div>
 <hr style="height:1px; border:none; color:#333; background-color:#333;" />

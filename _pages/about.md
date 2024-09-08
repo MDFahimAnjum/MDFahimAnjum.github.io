@@ -402,16 +402,14 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <div class="archive__pub__left">
     <p>
     <b>Apparatus, systems and methods for diagnosing parkinsons disease from electroencephalography data</b>
-    <br>    Soura Dasgupta,  Kumar Narayanan
-    Md Fahim Anjum,
-    Raghuraman Mudumbai,
+    <br>    Soura Dasgupta,  Kumar Narayanan, Md Fahim Anjum, Raghuraman Mudumbai
     <br>United States Patent Application 17/020,432
     <br><a href="https://patentcenter.uspto.gov/applications/17020432">link</a>
     </p>
   </div>
   <div class="archive__pub__right">
     <div class="square">
-        <img  src="images/patent.jpg"> 
+        <img  src="images/uiowa.png"> 
     </div>
   </div>
 </div>
@@ -419,7 +417,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <div id="awards"></div>
 <hr style="height:1px; border:none; color:#333; background-color:#333;" />
 
-<h1 >Awards</h1>
+<h1 >Awards & Media</h1>
 
 <div id="news"></div>
 <hr style="height:1px; border:none; color:#333; background-color:#333;" />

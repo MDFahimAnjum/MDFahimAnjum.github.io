@@ -583,6 +583,8 @@ Parkinson’s Disease through EEG data</b>
 <hr style="height:1px; border:none; color:#333; background-color:#333;" />
 
 <h1 >Latest News</h1>
+
+
 📢 [August 2024] We published [LiPCoT](https://github.com/MDFahimAnjum/LiPCoT) that enables NLP of time series via LLM.<br>
 📢 [Febuary 2024] Our [paper](https://www.nature.com/articles/s41467-024-46002-7) was accepted in Nature Communications.<br>
 📢 [September 2021] Joined Little Lab at UCSF as a postdoctoral scholar.<br>

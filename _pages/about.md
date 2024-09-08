@@ -432,7 +432,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   </div>
   <div class="archive__pub__right">
     <div class="square">
-        <img  src="images/noyce.png"> 
+        <img  src="images/noyce2.png"> 
     </div>
   </div>
 </div>
@@ -444,7 +444,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     <br>Md Fahim Anjum
     <br>Graduate College Post-Comprehensive Research Fellowship, $10,000 (2021)
     <br>Graduate College, The University of Iowa
-    <!---<br><a href="https://ucnoyce.org/researchers">link</a>-->
+    <br><a href="https://grad.uiowa.edu/funding/fellowships/post-comp#information">link</a>
     </p>
   </div>
   <div class="archive__pub__right">

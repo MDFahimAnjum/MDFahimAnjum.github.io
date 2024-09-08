@@ -454,11 +454,112 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   </div>
 </div>
 
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Featured Researcher</b>
+    <br>Md Fahim Anjum
+    <br>Dare to Discover Campaign (2021)
+    <br>Office of the Vice President for Research, The University of Iowa
+    <br><a href="https://dare.research.uiowa.edu/anjum-md-fahim/">link</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/dare2discover.png"> 
+    </div>
+  </div>
+</div>
 
 <div id="media"></div>
 <hr style="height:1px; border:none; color:#333; background-color:#333;" />
 
 <h1 >Media Coverage</h1>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>A Personalized Brain Pacemaker for Parkinson’s</b>
+    <br>News Article
+    <br>August 20, 2024 
+    <br> The New York Times
+    <br><a href="https://www.nytimes.com/2024/08/19/health/parkinsons-brain-pacemaker.html">link</a>
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/media_ucsf2.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Taming Parkinson’s Disease with Intelligent Brain Pacemakers</b>
+    <br>News Article
+    <br>August 19, 2024 
+    <br> Science Daily
+    <br><a href="https://www.sciencedaily.com/releases/2024/08/240819130520.htm">link</a>
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/media_ucsf2.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Taming Parkinson’s Disease with Intelligent Brain Pacemakers</b>
+    <br>News Article
+    <br>August 19, 2024 
+    <br> UCSF News
+    <br><a href="https://www.ucsf.edu/news/2024/08/428246/taming-parkinsons-disease-intelligent-brain-pacemakers">link</a>
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/media_ucsf.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>ECE research could enhance Parkinson’s disease treatment in rural settings</b>
+    <br>News Article
+    <br>January 4, 2024
+    <br> College of Engineering, The University of Iowa
+    <br><a href="https://engineering.uiowa.edu/news-all/2024/01/ece-research-could-enhance-parkinsons-disease-treatment-rural-settings">link</a>
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/media_uiowa2.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>University of Iowa researchers develop algorithm to detect Parkinson’s Disease</b>
+    <br>News Article
+    <br>September 9, 2020
+    <br> The Daily Iowan
+    <br><a href="https://dailyiowan.com/2020/09/09/university-of-iowa-researchers-develop-algorithm-to-detect-parkinsons-disease/">link</a>
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/media_iowa.png"> 
+    </div>
+  </div>
+</div>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">

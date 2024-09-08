@@ -590,3 +590,4 @@ Parkinson’s Disease through EEG data</b>
 📢 [September 2021] Joined Little Lab at UCSF as a postdoctoral scholar.<br>
 📢 [August 2021] Successfully defended my doctoral disseration!<br>
 
+

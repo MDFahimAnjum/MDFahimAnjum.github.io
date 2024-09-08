@@ -145,7 +145,7 @@ Playing musical instruments, skiing, and hiking.
 <hr style="height:1px; border:none; color:#333; background-color:#333;" />
 
 <h1 >Awards & Funding</h1>
-
+<br>
 
 <div class="archive__pub__row">
   <div class="archive__pub__left">
@@ -202,6 +202,7 @@ Playing musical instruments, skiing, and hiking.
 <hr style="height:1px; border:none; color:#333; background-color:#333;" />
 
 <h1 >Media Coverage</h1>
+<br>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -310,6 +311,7 @@ Parkinson’s Disease through EEG data</b>
 <hr style="height:1px; border:none; color:#333; background-color:#333;" />
 
 <h1 >Patents</h1>
+<br>
 
 <div class="archive__pub__row">
   <div class="archive__pub__left">

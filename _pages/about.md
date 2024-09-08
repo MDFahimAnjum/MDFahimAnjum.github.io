@@ -287,7 +287,8 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     <b>Electroencephalography and Local Field Potentials in Parkinson's Disease: Models and Diagnosis</b>
     <br>Md Fahim Anjum
     <br>The University of Iowa, 2021
-    <br><a href="https://www.proquest.com/dissertations-theses/electroencephalography-local-field-potentials/docview/2632097655/se-2?accountid=14525">pdf</a> 
+    <br><a href="https://www.proquest.com/dissertations-theses/electroencephalography-local-field-potentials/docview/2632097655/se-2?accountid=14525">pdf</a>
+    </p> 
   </div>
   <div class="archive__pub__right">
     <div class="square">
@@ -386,7 +387,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   </div>
   <div class="archive__pub__right">
     <div class="square">
-        <img  src="images/sample.png"> 
+        <img  src="images/uiowa.png"> 
     </div>
   </div>
 </div>

@@ -134,10 +134,10 @@ Playing musical instruments, skiing, and hiking.
 
 <br> 📢 [August 2024] We published [LiPCoT](https://github.com/MDFahimAnjum/LiPCoT) that enables NLP of time series via LLM.
 <br> 📢 [Febuary 2024] Our [paper](https://www.nature.com/articles/s41467-024-46002-7) was accepted in Nature Communications.
-<br> 📢 [October 2021] Received Computational Innovator Postdoctoral Fellowship of $75,000.
+<br> 📢 [October 2021] Received Computational Innovator Postdoctoral Fellowship of USD 75,000.
 <br> 📢 [September 2021] Joined Little Lab at UCSF as a postdoctoral scholar.
 <br> 📢 [August 2021] Successfully defended my doctoral disseration!
-<br> 📢 [January 2021] Graduate College Post-Comprehensive Research Fellowship of $10,000.
+<br> 📢 [January 2021] Graduate College Post-Comprehensive Research Fellowship of USD 10,000.
 
 
 <div id="awards"></div>

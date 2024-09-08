@@ -136,6 +136,262 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <br><br>
 </div>
 
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Parkinson's Disease Classification via EEG: All You Need is a Single Convolutional Layer</b>
+    <br>Md Fahim Anjum
+    <br>arXiv preprint arXiv:2408.10457, 2024
+    <br><a href="https://doi.org/10.48550/arXiv.2408.10457">pdf</a> | <a href="https://github.com/MDFahimAnjum/LightCNNforPD">code</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/ucsf.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>LiPCoT: Linear Predictive Coding based Tokenizer for Self-supervised Learning of Time Series Data via Language Models</b>
+    <br>Md Fahim Anjum
+    <br>arXiv e-prints, arXiv:2408.07292, 2024
+    <br><a href="https://arxiv.org/abs/2408.07292">pdf</a> | <a href="https://github.com/MDFahimAnjum/LiPCoT">code</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/ucsf.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Generalized sleep decoding with basal ganglia signals in multiple movement disorders</b>
+    <br>Zixiao Yin, Huiling Yu, Tianshuo Yuan, Clay Smyth, Md Fahim Anjum, Guanyu Zhu, Ruoyu Ma, Yichen Xu, Qi An, Yifei Gan, Timon Merk, Guofan Qin, Hutao Xie, Ning Zhang, Chunxue Wang, Yin Jiang, Fangang Meng, Anchao Yang, Wolf-Julian Neumann, Philip Starr, Simon Little, Luming Li, Jianguo Zhang
+    <br>npj Digital Medicine 7 (1), 122, 2024
+    <br><a href="https://www.nature.com/articles/s41746-024-01115-7">pdf</a> | <a href="https://github.com/zixiao-yin/BGOOSE">code</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/ucsf.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Multi-night cortico-basal recordings reveal mechanisms of NREM slow-wave suppression and spontaneous awakenings in Parkinson’s disease</b>
+    <br>Md Fahim Anjum, Clay Smyth, Rafael Zuzuárregui, Derk Jan Dijk, Philip A. Starr, Timothy Denison, Simon Little
+    <br>Nature Communications 15 (1793), 6, 2024
+    <br><a href="https://www.nature.com/articles/s41467-024-46002-7">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/ucsf.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Resting-state EEG measures cognitive impairment in Parkinson’s disease</b>
+    <br>Md Fahim Anjum, Arturo I Espinoza, Rachel C Cole, Arun Singh, Patrick May, Ergun Y Uc, Soura Dasgupta, Nandakumar S Narayanan
+    <br>npj Parkinson's Disease 10 (1), 6, 2024
+    <br><a href="https://www.nature.com/articles/s41531-023-00602-0">pdf</a> | <a href="http://narayanan.lab.uiowa.edu">code</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/uiowa.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Adaptive Deep Brain Stimulation for sleep stage targeting in Parkinson’s disease</b>
+    <br>Clay Smyth, Md Fahim Anjum, Shravanan Ravi, Timothy Denison, Philip Starr, Simon Little
+    <br>Brain stimulation 16 (5), 1292-1296, 2023
+    <br><a href="https://doi.org/10.1016/j.brs.2023.08.006">pdf</a> 
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/ucsf.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Resting-state EEG Predicts Cognitive Impairment in Parkinson’s Disease (P6-11.015)</b>
+    <br>Ergun Uc, Fahim Anjum, Soura Dasgupta, Nandakumar Narayanan
+    <br>Neurology 100 (17 Supplement 2), 2, 2023
+    <br><a href="https://www.neurology.org/doi/abs/10.1212/WNL.0000000000203685">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/uiowa.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Chronic motor cortical electrocorticography reveals negative correlation between slow wave and beta activity during deep NREM sleep in Parkinson’s disease</b>
+    <br>Md Fahim Anjum, Clay Smyth, Shravanan Ravi, Tanner Dixon, Philip Starr, Timothy Denison, Simon Little
+    <br>Neuroscience 2022: Society for Neuroscience, Session 214, 2022
+    <br><a href="https://www.abstractsonline.com/pp8/#!/10619/presentation/67695">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/ucsf.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>A pilot study of machine learning of resting-state EEG and depression in Parkinson’s disease</b>
+    <br>Arturo I. Espinoza, Patrick May, Md Fahim Anjum, Arun Singh, Rachel C. Cole, NicholasTrapp, Soura Dasgupta, Nandakumar S. Narayanan
+    <br>Clinical Parkinsonism & Related Disorders 7, 2, 2022
+    <br><a href="https://doi.org/10.1016/j.prdoa.2022.100166">pdf</a> 
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/uiowa.png"> 
+    </div>
+  </div>
+</div>
+
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Electroencephalography and Local Field Potentials in Parkinson's Disease: Models and Diagnosis</b>
+    <br>Md Fahim Anjum
+    <br>The University of Iowa, 2021
+    <br><a href="https://www.proquest.com/dissertations-theses/electroencephalography-local-field-potentials/docview/2632097655/se-2?accountid=14525">pdf</a> 
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/uiowa.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Linear predictive coding distinguishes spectral EEG features of Parkinson's disease</b>
+    <br>Anjum Md Fahim, Dasgupta Soura, Mudumbai Raghuraman, Singh Arun, Cavanagh James F., Narayanan Nandakumar S.
+    <br>Parkinsonism & Related Disorders, 107, 2020
+    <br><a href="https://doi.org/10.1016/j.parkreldis.2020.08.001">pdf</a> | <a href="http://narayanan.lab.uiowa.edu">code</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/uiowa.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Linear Predictive Approaches Separate Field Potentials in Animal Model of Parkinson's Disease</b>
+    <br>Anjum Md Fahim, Haug Joshua, L. Alberico Stephanie, Dasgupta Soura, Mudumbai Raghuraman, A. Kennedy Morgan, Narayanan Nandakumar S.
+    <br>Front. Neurosci., 6, 2020
+    <br><a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.00394/full">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/uiowa.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Unique Maximum Likelihood Localization of Nuclear Sources</b>
+    <br>BDO Anderson, S Dasgupta, HE Baidoo-Williams, MF Anjum, R Mudumbai
+    <br>58th IEEE Conference on Decision and Control, 1, 2019
+    <br><a href="https://doi.org/10.1109/CDC40024.2019.9028941">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/uiowa.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>On the Uniqueness of Maximum Likelihood Estimation of Nuclear Sources</b>
+    <br>J Haug, MF Anjum, BDO Anderson, S Dasgupta, R Mudumbai, HE Baidoo-Williams
+    <br>Proceedings of MTNS, 1, 2018
+    <br><a href="http://mtns2018.ust.hk/media/files/0048.pdf">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/uiowa.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Optimal Non-coherent Data Detection for Massive SIMO Wireless Systems with General Constellations: A Polynomial Complexity Solution</b>
+    <br>Haider Ali Jasim Alshamary, Md Fahim Anjum, Tareq Al-Naffouri, Alam Zaib, Weiyu Xu
+    <br>arXiv e-prints, arXiv: 1507.02319, 2015
+    <br><a href="https://arxiv.org/abs/1507.02319">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/uiowa.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__pub__row">
+  <div class="archive__pub__left">
+    <p>
+    <b>Maximum-Likelihood Joint Channel Estimation and data Detection for 1-bit Massive MIMO</b>
+    <br>Md Fahim Anjum, Weiyu Xu, 2015
+    <br><a href="https://www.researchgate.net/profile/Md-Fahim-Anjum/publication/292406800_Maximum-Likelihood_Joint_Channel_Estimation_and_Data_Detection_for_1-bit_Massive_MIMO/links/56ae5adf08ae28588c61bf58/Maximum-Likelihood-Joint-Channel-Estimation-and-Data-Detection-for-1-bit-Massive-MIMO.pdf">pdf</a>
+    </p>
+  </div>
+  <div class="archive__pub__right">
+    <div class="square">
+        <img  src="images/sample.png"> 
+    </div>
+  </div>
+</div>
+
+
 <div id="patents"></div>
 <hr style="height:1px; border:none; color:#333; background-color:#333;" />
 

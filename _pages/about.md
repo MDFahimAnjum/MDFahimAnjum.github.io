@@ -102,6 +102,21 @@ Playing musical instruments, skiing, and hiking.
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
+    <b><a href="https://doi.org/10.1016/j.brs.2023.08.006">Real-time Classification of Time Series </a></b>
+    <br>Developed supervised models using Linear Discriminant Analysis for binary classification of real-time incoming time series data of brain activity using frequency-domain features for adaptive brain stimulation.
+    <br> Tech Stack: Python
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/adaptivedbs.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
     <b><a href="https://www.nature.com/articles/s41467-024-46002-7">Efficient Feature Engineering for Time Series Classifier </a></b>
     <br>Developed manual features using signal processing (spectral power) from LFP brain activity time series (RCS brain-implant) for computationally efficient sleep stage classification and achieved over 90% accuracy with lightweight ML models (SVM), matching DL models (CNN, Transformer, RNN) with automatic feature engineering (published in Nature Communications)<br> Tech Stack: Matlab, R
     </p>

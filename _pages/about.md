@@ -84,6 +84,7 @@ Playing musical instruments, skiing, and hiking.
 </div>
 
 <h2>Efficient Machine Learning</h2>
+
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
@@ -113,6 +114,7 @@ Playing musical instruments, skiing, and hiking.
 </div>
 
 <h2>Efficient Signal Processing</h2>
+
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
@@ -123,6 +125,175 @@ Playing musical instruments, skiing, and hiking.
   <div class="archive__proj__left">
     <div>
         <img  src="images/turbolpc.png"> 
+    </div>
+  </div>
+</div>
+
+<h2>Time series Classification</h2>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://www.nature.com/articles/s41746-024-01115-7#Abs1">Generalized Multi-Class Supervised Models for Time Series </a></b>
+    <br>Created multi-class supervised models for time series data of brain activity, achieving an average accuracy of 85%. Implemented extensive feature extraction, including 74 features (18 frequency-domain, 10 time-domain and additional coherence features). Evaluated 8 machine learning models, including ridge regression, SVM, KNN, decision tree, random forest, XGBoost, LightGBM, and artificial neural network.
+    <br> Tech Stack: Python
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/bgoose.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://www.prd-journal.com/article/S1353-8020(20)30667-2/fulltext">Novel Feature Extraction Method for Time Series Classification</a></b>
+    <br>Designed a computationally efficient method to obtain features (via stochastic modeling) and ML algorithm for supervised classification of time series data improving both performance (+13% accuracy) and computational cost (5× faster).
+    <br> Tech Stack: Matlab
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/lpc_prd.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://doi.org/10.1038/s41531-023-00602-0">Regression Model for Time Series Data</a></b>
+    <br>Designed ML algorithm that utilizes stochastic characteristics of time series data as features to estimate observed measurements.
+    <br> Tech Stack: Matlab
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/lpc_npj.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://ieeexplore.ieee.org/abstract/document/9028941">Source Estimation from Time Series</a></b>
+    <br>Utilized single/multi-channel sensor time series data to estimate the characteristics of the source for localization and classification tasks.
+    <br> Tech Stack: Matlab
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/nuclear_src.png"> 
+    </div>
+  </div>
+</div>
+
+<h2>Miscellaneous</h2>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://www.nature.com/articles/s41467-024-46002-7">Statistical Evaluation Framework </a></b>
+    <br>Developed complex statistical models and tests (Linear Mixed effects/t-test/MANOVA/Hierarchical Cluster Analysis) for time series data and features (via cross-correlation, spectral coherence, spectrogram, and wavelet analyses) to evaluate the stability of data-driven clustering and discover neurophysiological changes in brain networks.
+    <br> Tech Stack: R
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/stat_model.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://www.nature.com/articles/s41467-024-46002-7">Automated Artifact Detection & Removal</a></b>
+    <br>Developed algorithms to detect and rectify abnormal data and noise artifacts in time series data of brain activities using signal processing tools (template matching, cross-correlation, Spectral power threshold, Kalman Filtering) and unsupervised ML clustering (Multivariate Auto-regressive HMM).
+    <br> Tech Stack: Matlab
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/artifact.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://www.nature.com/articles/s41467-024-46002-7">Data Synchronization among Wearable Devices</a></b>
+    <br>Designed signal processing algorithms for synchronizing time series data from multiple wearable and implanted devices while accounting for missing data, disconnections, mismatch of timestamps, and non-uniform sampling rates.
+    <br> Tech Stack: Matlab
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/timesync.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://www.nature.com/articles/s41467-024-46002-7">Data Processing Pipeline for Wearables</a></b>
+    <br>Developed a data collection and processing pipeline for wearable devices for building ML models and conducting statistical analyses for automatic data collection from servers (via RESTful APIs), data quality checks, resampling, artifact rejection, manual data corrections, and pre-processing (filtering).
+    <br> Tech Stack: Matlab
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/data_pipeline.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://github.com/MDFahimAnjum/EEG-Data-Processing-Toolbox">Data Processing Tool for EEG</a></b>
+    <br>Developed pipeline for processing raw time series data (EEG) for building ML models and feature engineering.
+    <br> Tech Stack: Matlab
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/eeg_pipeline.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://www.researchgate.net/publication/295702317_Motion_Segmentation_using_Subspace_Clustering/link/56cc906d08ae96cdd071c1e0/download">Motion Segmentation using Subspace Clustering</a></b>
+    <br>Utilized ML algorithms (Mixture of Probabilistic Principal Component Analysis, k-Subspaces and Sparse Subspace clustering) to recognize moving objects in video.
+    <br> Tech Stack: Matlab
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/motion_segment.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://play.google.com/store/apps/details?id=com.cloudtutor.fahim.cloudtutormedicaladmission">Cloud-based AI-Assisted Education Platform</a></b>
+    <br>Developed a smartphone app (Android) and server-side web application for an AI-assisted education platform, supporting 10,000+ users. The app, deployed via Ruby on Rails with a complex PostgreSQL database and hosted using open-source PaaS (CapRover).
+    <br> Tech Stack: Ruby, Rails, Postgres, Java, Docker
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="images/cloudtutor.png"> 
     </div>
   </div>
 </div>

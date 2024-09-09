@@ -263,7 +263,7 @@ Playing musical instruments, skiing, and hiking.
   </div>
   <div class="archive__proj__left">
     <div>
-        <img  src="images/eeg_pipeline.png"> 
+        <img  src="images/eeg_pipeline.PNG"> 
     </div>
   </div>
 </div>
